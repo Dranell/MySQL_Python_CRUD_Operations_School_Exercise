@@ -36,6 +36,7 @@ manipulating numerical tables and time series.
 ![Screenshot (6 5)](https://github.com/Dranell/MySQL_Python_CRUD_Operations_School_Exercise/assets/173842921/7ca2f13a-8a84-4c54-882d-3af63e0cc400)
 
 6.)Populated Data Tables
+![Screenshot (5 5)](https://github.com/Dranell/MySQL_Python_CRUD_Operations_School_Exercise/assets/173842921/424b7beb-f79f-4fd0-b118-e8700a7a521f)
 ![Screenshot (7 5)](https://github.com/Dranell/MySQL_Python_CRUD_Operations_School_Exercise/assets/173842921/a8a85496-854c-411d-87c1-0d19b666127d)
 ![Screenshot (8 5)](https://github.com/Dranell/MySQL_Python_CRUD_Operations_School_Exercise/assets/173842921/d5aba3b4-7dbb-4e1a-a435-abcb7c0fce01)
 
