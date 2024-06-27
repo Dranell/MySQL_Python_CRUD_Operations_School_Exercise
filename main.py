@@ -9,6 +9,8 @@ import create_data_table_queries as cdtq
 
 #import populate_data_tables_queries.py
 import populate_data_tables_queries as pdtq
+
+import read_data_tables_queries as rdtq
 def createServerConnection(host_name,user_name,user_password,db_name):
     connection = None
     try:
@@ -43,10 +45,42 @@ def execute_query(connection,query):
     except Error as err:
         print(f"Error: '{err}'")
 
+
+#create a function to read information from data tables from Data Base
+def read_query(connection,query):
+    cursor = connection.cursor()
+    result = None
+    try:
+        cursor.execute(query)
+        result = cursor.fetchall()
+        return result
+    except Error as err:
+        print(f"Error: '{err}'")
+
 #call function to establish connection from main.py to mySQL
 connection = createServerConnection("localhost","root","student","school")
 
-execute_query(connection,pdtq.populate_teacher_table)
-execute_query(connection,pdtq.populate_client_table)
-execute_query(connection,pdtq.populate_participant_table)
-execute_query(connection,pdtq.populate_course_table)
+#display information form data tables in pycharm
+def displayAllDataTables():
+    print("Information for Client Data Table.")
+    clientDataTable = read_query(connection, rdtq.display_client_table_information)
+    for clientInformation in clientDataTable:
+        print(clientInformation)
+    print()
+    print("Information for Teacher Table:")
+    teacherDataTable = read_query(connection, rdtq.display_teacher_table_information)
+    for teeacherInformation in teacherDataTable:
+        print(teeacherInformation)
+    print()
+
+    print("Information for Participant Table")
+    courseDataTable = read_query(connection, rdtq.display_course_table_information)
+    for courseInformation in courseDataTable:
+        print(courseInformation)
+    print()
+
+    print("Information for Participant Table:")
+    participantDataTable = read_query(connection, rdtq.display_participant_table_information)
+    for participantInformation in participantDataTable:
+        print(participantInformation)
+displayAllDataTables()
