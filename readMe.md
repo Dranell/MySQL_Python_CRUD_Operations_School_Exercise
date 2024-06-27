@@ -32,16 +32,23 @@ manipulating numerical tables and time series.
 
 
 5.) Created Data Tables from Pycharm.
+![Screenshot (5 5)](https://github.com/Dranell/MySQL_Python_CRUD_Operations_School_Exercise/assets/173842921/74d0f8ce-a74b-48bd-b9db-86859caee413)
+![Screenshot (6 5)](https://github.com/Dranell/MySQL_Python_CRUD_Operations_School_Exercise/assets/173842921/7ca2f13a-8a84-4c54-882d-3af63e0cc400)
 
 6.)Populated Data Tables
-*screenshot
+![Screenshot (7 5)](https://github.com/Dranell/MySQL_Python_CRUD_Operations_School_Exercise/assets/173842921/a8a85496-854c-411d-87c1-0d19b666127d)
+![Screenshot (8 5)](https://github.com/Dranell/MySQL_Python_CRUD_Operations_School_Exercise/assets/173842921/d5aba3b4-7dbb-4e1a-a435-abcb7c0fce01)
 
 7.) Reading Data Tables  in Pycharm
-*screenshot
+![Screenshot (9 5)](https://github.com/Dranell/MySQL_Python_CRUD_Operations_School_Exercise/assets/173842921/be548a49-8436-4eea-9139-3c6e81879caf)
+
+![Screenshot (10 5)](https://github.com/Dranell/MySQL_Python_CRUD_Operations_School_Exercise/assets/173842921/0b7d522e-5fa6-49d1-bc93-5e6d9c652746)
 
 8.) Updated value in Teacher table to show case "Williams" as new last name for Stefanie
-*screenshot
+
+![Screenshot (13 5)](https://github.com/Dranell/MySQL_Python_CRUD_Operations_School_Exercise/assets/173842921/07c12924-ace5-491d-836e-5bf462c6c2d4)
 
 
 9.) Removed the 20th course from course table.
-*screenshot
+![Screenshot (14 5)](https://github.com/Dranell/MySQL_Python_CRUD_Operations_School_Exercise/assets/173842921/21eefefc-05a6-410f-8290-f9b04cf392b3)
+
