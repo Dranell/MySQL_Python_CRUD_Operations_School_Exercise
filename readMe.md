@@ -46,7 +46,7 @@ manipulating numerical tables and time series.
 ![Screenshot![Screenshot (12 5)](https://github.com/Dranell/MySQL_Python_CRUD_Operations_School_Exercise/assets/173842921/49133826-5829-4958-8489-db72b06ba1c3)
 
 8.) Updated value in Teacher table. Updated 'Stephaine Martin' to 'Stephaine Green'
- (13 5)](https://github.com/Dranell/MySQL_Python_CRUD_Operations_School_Exercise/assets/173842921/07c12924-ace5-491d-836e-5bf462c6c2d4)
+ ![Screenshot (13 5)](https://github.com/Dranell/MySQL_Python_CRUD_Operations_School_Exercise/assets/173842921/93d1728d-119c-47e2-ba61-c9ca2dbd49ae)
 
 9.) Removed the 20th course from course table.
 ![Screenshot (14 5)](https://github.com/Dranell/MySQL_Python_CRUD_Operations_School_Exercise/assets/173842921/21eefefc-05a6-410f-8290-f9b04cf392b3)
