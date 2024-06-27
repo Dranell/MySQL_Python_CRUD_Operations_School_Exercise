@@ -28,6 +28,7 @@ manipulating numerical tables and time series.
 
 4.) Created DB from main.py
 ![Screenshot (4 5)](https://github.com/Dranell/MySQL_Python_CRUD_Operations_School_Exercise/assets/173842921/3769aae3-0205-4a6c-a7a1-c0b1bf67c883)
+![Screenshot (6 5 5)](https://github.com/Dranell/MySQL_Python_CRUD_Operations_School_Exercise/assets/173842921/8afcb19a-e6a5-4cdc-b22f-4dadf3078c18)
 
 
 
