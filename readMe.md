@@ -40,6 +40,7 @@ manipulating numerical tables and time series.
 ![Screenshot (8 5)](https://github.com/Dranell/MySQL_Python_CRUD_Operations_School_Exercise/assets/173842921/d5aba3b4-7dbb-4e1a-a435-abcb7c0fce01)
 
 7.) Reading Data Tables  in Pycharm
+![Screenshot (7 5)](https://github.com/Dranell/MySQL_Python_CRUD_Operations_School_Exercise/assets/173842921/8b9c7996-c8ab-408b-ace0-97531f2e907d)
 ![Screenshot (9 5)](https://github.com/Dranell/MySQL_Python_CRUD_Operations_School_Exercise/assets/173842921/be548a49-8436-4eea-9139-3c6e81879caf)
 
 ![Screenshot (10 5)](https://github.com/Dranell/MySQL_Python_CRUD_Operations_School_Exercise/assets/173842921/0b7d522e-5fa6-49d1-bc93-5e6d9c652746)
