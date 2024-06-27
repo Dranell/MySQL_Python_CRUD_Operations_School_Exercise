@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce52f567-ffc1-41f2-8da5-28cc6c548de2" name="Changes" comment="Created DB from main.py">
-      <change afterPath="$PROJECT_DIR$/create_data_table_queries.py" afterDir="false" />
+    <list default="true" id="ce52f567-ffc1-41f2-8da5-28cc6c548de2" name="Changes" comment="Created all four data tables inside DB.">
+      <change afterPath="$PROJECT_DIR$/ populate_data_tables_queries.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,12 +90,21 @@
       <option name="project" value="LOCAL" />
       <updated>1719496160448</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Created all four data tables inside DB.">
+      <option name="closed" value="true" />
+      <created>1719496382050</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719496382050</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Established connection from Pycharm to mySQL" />
     <MESSAGE value="Created DB from main.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created DB from main.py" />
+    <MESSAGE value="Created all four data tables inside DB." />
+    <option name="LAST_COMMIT_MESSAGE" value="Created all four data tables inside DB." />
   </component>
 </project>
