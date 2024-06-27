@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce52f567-ffc1-41f2-8da5-28cc6c548de2" name="Changes" comment="Reading data from Data tables in pycharm/main.py" />
+    <list default="true" id="ce52f567-ffc1-41f2-8da5-28cc6c548de2" name="Changes" comment="Removed 20th course from course table.">
+      <change afterPath="$PROJECT_DIR$/readMe.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,7 +112,23 @@
       <option name="project" value="LOCAL" />
       <updated>1719497783366</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Updated value in teacher table.">
+      <option name="closed" value="true" />
+      <created>1719498030043</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1719498030043</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Removed 20th course from course table.">
+      <option name="closed" value="true" />
+      <created>1719498195831</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1719498195831</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -119,6 +137,8 @@
     <MESSAGE value="Created all four data tables inside DB." />
     <MESSAGE value="Populated all four data tables." />
     <MESSAGE value="Reading data from Data tables in pycharm/main.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reading data from Data tables in pycharm/main.py" />
+    <MESSAGE value="Updated value in teacher table." />
+    <MESSAGE value="Removed 20th course from course table." />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed 20th course from course table." />
   </component>
 </project>
