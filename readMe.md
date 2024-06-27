@@ -19,17 +19,19 @@ manipulating numerical tables and time series.
 
 
 2.) Established connection to mysql from pycharm
-*screenshot
+
+![Screenshot (2 5)](https://github.com/Dranell/MySQL_Python_CRUD_Operations_School_Exercise/assets/173842921/6e3febb5-2174-4112-807f-6a8940c5cf2c)
 
 3.) Established connection from main.py to MySQL
-*screenshot
+
+![Screenshot (3 5)](https://github.com/Dranell/MySQL_Python_CRUD_Operations_School_Exercise/assets/173842921/7a395653-8575-42a8-96ba-93f33c1c55b5)
 
 4.) Created DB from main.py
-*screenshot
+![Screenshot (4 5)](https://github.com/Dranell/MySQL_Python_CRUD_Operations_School_Exercise/assets/173842921/3769aae3-0205-4a6c-a7a1-c0b1bf67c883)
 
 
-5.) Created Data Tables in MySQL
-*screenshot
+
+5.) Created Data Tables from Pycharm.
 
 6.)Populated Data Tables
 *screenshot
