@@ -10,6 +10,7 @@ import create_data_table_queries as cdtq
 #import populate_data_tables_queries.py
 import populate_data_tables_queries as pdtq
 
+import update_queries as uq
 import read_data_tables_queries as rdtq
 def createServerConnection(host_name,user_name,user_password,db_name):
     connection = None
@@ -61,26 +62,10 @@ def read_query(connection,query):
 connection = createServerConnection("localhost","root","student","school")
 
 #display information form data tables in pycharm
-def displayAllDataTables():
-    print("Information for Client Data Table.")
-    clientDataTable = read_query(connection, rdtq.display_client_table_information)
-    for clientInformation in clientDataTable:
-        print(clientInformation)
-    print()
-    print("Information for Teacher Table:")
-    teacherDataTable = read_query(connection, rdtq.display_teacher_table_information)
-    for teeacherInformation in teacherDataTable:
-        print(teeacherInformation)
-    print()
 
-    print("Information for Participant Table")
-    courseDataTable = read_query(connection, rdtq.display_course_table_information)
-    for courseInformation in courseDataTable:
-        print(courseInformation)
-    print()
 
-    print("Information for Participant Table:")
-    participantDataTable = read_query(connection, rdtq.display_participant_table_information)
-    for participantInformation in participantDataTable:
-        print(participantInformation)
-displayAllDataTables()
+execute_query(connection,uq.update_teacher_table)
+print("Information for Teacher Table:")
+teacherDataTable = read_query(connection, rdtq.display_teacher_table_information)
+for teeacherInformation in teacherDataTable:
+    print(teeacherInformation)
