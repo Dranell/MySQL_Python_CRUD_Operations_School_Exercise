@@ -43,7 +43,7 @@ manipulating numerical tables and time series.
 
 7.) Reading Data Tables  in Pycharm
 ![Screenshot (11 5)](https://github.com/Dranell/MySQL_Python_CRUD_Operations_School_Exercise/assets/173842921/f88a6cc8-738a-429a-90f3-e3a084a1893b)
-![Screenshot![Screenshot (12 5)](https://github.com/Dranell/MySQL_Python_CRUD_Operations_School_Exercise/assets/173842921/49133826-5829-4958-8489-db72b06ba1c3)
+[Screenshot (12 5)](https://github.com/Dranell/MySQL_Python_CRUD_Operations_School_Exercise/assets/173842921/49133826-5829-4958-8489-db72b06ba1c3)
 
 8.) Updated value in Teacher table. Updated 'Stephaine Martin' to 'Stephaine Green'
  ![Screenshot (13 5)](https://github.com/Dranell/MySQL_Python_CRUD_Operations_School_Exercise/assets/173842921/93d1728d-119c-47e2-ba61-c9ca2dbd49ae)
