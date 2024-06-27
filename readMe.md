@@ -14,7 +14,8 @@ for data manipulation and analysis. In particular, it offers data structures and
 manipulating numerical tables and time series.
 
 1.) Installed Necessary Dependencies/Libraries:
-*screenshot
+![Screenshot (1 5)](https://github.com/Dranell/MySQL_Python_CRUD_Operations_School_Exercise/assets/173842921/0838fb61-f86b-44e0-a628-1a0ecfed7cda)
+
 
 
 2.) Established connection to mysql from pycharm
