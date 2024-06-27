@@ -44,8 +44,7 @@ manipulating numerical tables and time series.
 
 ![Screenshot (10 5)](https://github.com/Dranell/MySQL_Python_CRUD_Operations_School_Exercise/assets/173842921/0b7d522e-5fa6-49d1-bc93-5e6d9c652746)
 
-8.) Updated value in Teacher table to show case "Williams" as new last name for Stefanie
-
+8.) Updated value in Teacher table. Updated 'Stephaine Martin' to 'Stephaine Green'
 ![Screenshot (13 5)](https://github.com/Dranell/MySQL_Python_CRUD_Operations_School_Exercise/assets/173842921/07c12924-ace5-491d-836e-5bf462c6c2d4)
 
 
